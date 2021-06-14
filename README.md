@@ -1,1 +1,2 @@
-# goldenstg2
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
